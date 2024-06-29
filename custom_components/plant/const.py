@@ -81,10 +81,10 @@ DATA_SOURCE_DEFAULT = "Default values"
 DATA_UPDATED = "plant_data_updated"
 
 
-UNIT_PPFD = "mol/s⋅m²"
-UNIT_MICRO_PPFD = "μmol/s⋅m²"
-UNIT_DLI = "mol/d⋅m²"
-UNIT_MICRO_DLI = "μmol/d⋅m²"
+UNIT_PPFD = "mol/(m²⋅s)"
+UNIT_MICRO_PPFD = "μmol/(m²⋅s)"
+UNIT_DLI = "mol/(m²⋅d)"
+UNIT_MICRO_DLI = "μmol/(m²⋅d)"
 UNIT_CONDUCTIVITY = "μS/cm"
 
 FLOW_WRONG_PLANT = "wrong_plant"
